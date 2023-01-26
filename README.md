@@ -12,7 +12,7 @@ npm install
 
 Acto seguido puede empezar el proyecto con: 
 ```sh
-ng server
+ng serve
 ```
 
 ### Herramientas usadas
